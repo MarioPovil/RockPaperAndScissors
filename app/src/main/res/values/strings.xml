@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GameSpider</string>
+    <!--PiedraPapelT-->
+    <string name="Piedra">Piedra</string>
+    <string name="Papel">Papel</string>
+    <string name="Tijeras">Tijeras</string>
+    <string name="Turno">Tú Turno!</string>
+    <string name="VicDer">Has Ganado!</string>
+    <string name="Elegir">Elegir</string>
+    <!--Main-->
+    <string name="cambio">Cambio</string>
+</resources>
